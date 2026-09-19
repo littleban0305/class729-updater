@@ -1,10 +1,10 @@
 {
   "android": {
-    "latest_version": "1.0.1",
-    "download_url": "https://github.com/littleban0305/class729-updater/releases/download/v1.0.1/app-release.apk"
+    "latest_version": "1.0.0",
+    "download_url": "https://drive.google.com/uc?export=download&id=ANDROID_FILE_ID&confirm=t"
   },
   "windows": {
-    "latest_version": "1.0.1",
-    "download_url": "https://github.com/littleban0305/class729-updater/releases/download/v1.0.1/class_729.exe"
+    "latest_version": "1.0.0",
+    "download_url": "https://drive.google.com/uc?export=download&id=1ftlt2NHpgXAkbbqI_hssD9a6wghA5ZQe&confirm=t"
   }
 }
